@@ -37,7 +37,6 @@ RadioCoder/
 ├── main_encode.py            # CLI encoder script
 ├── main_decode.py            # CLI decoder script
 ├── requirements.txt          # Python dependencies
-├── .gitignore
 └── README.md
 ```
 
